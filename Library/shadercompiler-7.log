@@ -1,0 +1,123 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-7-12460
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=3359 outsize=449 kw=WATER_REFRACTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1002 outsize=217 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3359 outsize=3860 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2033 outsize=4830 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2298 outsize=7921 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2803 outsize=12477 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2019 outsize=1512 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1171 outsize=254 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10220 outsize=5568 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10220 outsize=2720 kw=WATER_REFLECTIVE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10220 outsize=627 kw=WATER_SIMPLE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10220 outsize=1505 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10220 outsize=4752 kw=WATER_REFLECTIVE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10224 outsize=4851 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10224 outsize=2330 kw=WATER_EDGEBLEND_ON WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10224 outsize=2330 kw=WATER_EDGEBLEND_ON WATER_SIMPLE WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1339 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10224 outsize=4483 kw=WATER_EDGEBLEND_ON WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1026 kw=WATER_SIMPLE WATER_EDGEBLEND_OFF WATER_VERTEX_DISPLACEMENT_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=9966 outsize=1100 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1985 outsize=117 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1998 outsize=242 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1996 outsize=101 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=32668 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1702 outsize=695 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=19335 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=19342 outsize=3032 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=19325 outsize=426 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=19345 outsize=841 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=19338 outsize=731 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=19345 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=19333 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=19342 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=19329 outsize=941 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=19334 outsize=753 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=19327 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=19327 outsize=110 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19335 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19343 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19353 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19331 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=19350 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1749 outsize=1369 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5699 outsize=2810 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5699 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5701 outsize=318 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=32678 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4192 outsize=458 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4197 outsize=458 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3333 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3341 outsize=753 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3350 outsize=741 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3345 outsize=741 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=912 outsize=365 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=867 outsize=365 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=721 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=721 outsize=1008 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=952 outsize=126 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

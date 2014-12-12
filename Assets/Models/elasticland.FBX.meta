@@ -1,0 +1,2836 @@
+fileFormatVersion: 2
+guid: 98a57981d1bf58b41baceb74945f1938
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body001
+    100004: Body002
+    100006: Camera001
+    100008: Camera001.Target
+    100010: Compass001
+    100012: Daylight001
+    100014: Direct001
+    100016: Direct001.Target
+    100018: //RootNode
+    100020: GeoSphere001
+    100022: GeoSphere002
+    100024: GeoSphere003
+    100026: GeoSphere004
+    100028: GeoSphere005
+    100030: GeoSphere006
+    100032: GeoSphere007
+    100034: GeoSphere008
+    100036: GeoSphere009
+    100038: GeoSphere010
+    100040: GeoSphere011
+    100042: GeoSphere012
+    100044: GeoSphere013
+    100046: GeoSphere014
+    100048: GeoSphere015
+    100050: GeoSphere016
+    100052: GeoSphere017
+    100054: GeoSphere018
+    100056: GeoSphere019
+    100058: GeoSphere020
+    100060: GeoSphere021
+    100062: GeoSphere022
+    100064: GeoSphere023
+    100066: GeoSphere024
+    100068: GeoSphere025
+    100070: GeoSphere026
+    100072: GeoSphere027
+    100074: GeoSphere028
+    100076: GeoSphere029
+    100078: GeoSphere030
+    100080: GeoSphere031
+    100082: GeoSphere032
+    100084: GeoSphere033
+    100086: GeoSphere034
+    100088: GeoSphere035
+    100090: GeoSphere036
+    100092: GeoSphere037
+    100094: GeoSphere038
+    100096: GeoSphere039
+    100098: GeoSphere040
+    100100: GeoSphere041
+    100102: GeoSphere042
+    100104: GeoSphere043
+    100106: GeoSphere044
+    100108: GeoSphere045
+    100110: GeoSphere046
+    100112: GeoSphere047
+    100114: GeoSphere048
+    100116: GeoSphere049
+    100118: GeoSphere050
+    100120: GeoSphere051
+    100122: GeoSphere052
+    100124: GeoSphere053
+    100126: GeoSphere054
+    100128: GeoSphere055
+    100130: GeoSphere056
+    100132: GeoSphere057
+    100134: GeoSphere058
+    100136: GeoSphere059
+    100138: GeoSphere060
+    100140: GeoSphere061
+    100142: GeoSphere062
+    100144: GeoSphere063
+    100146: GeoSphere064
+    100148: GeoSphere065
+    100150: GeoSphere066
+    100152: GeoSphere067
+    100154: GeoSphere068
+    100156: GeoSphere069
+    100158: GeoSphere070
+    100160: GeoSphere071
+    100162: GeoSphere072
+    100164: GeoSphere073
+    100166: GeoSphere074
+    100168: GeoSphere075
+    100170: GeoSphere076
+    100172: GeoSphere077
+    100174: GeoSphere078
+    100176: GeoSphere079
+    100178: GeoSphere080
+    100180: GeoSphere081
+    100182: GeoSphere082
+    100184: GeoSphere083
+    100186: GeoSphere084
+    100188: GeoSphere085
+    100190: GeoSphere086
+    100192: GeoSphere087
+    100194: GeoSphere088
+    100196: GeoSphere089
+    100198: GeoSphere090
+    100200: GeoSphere091
+    100202: GeoSphere092
+    100204: GeoSphere093
+    100206: GeoSphere094
+    100208: GeoSphere095
+    100210: GeoSphere096
+    100212: GeoSphere097
+    100214: GeoSphere098
+    100216: GeoSphere099
+    100218: GeoSphere100
+    100220: GeoSphere101
+    100222: GeoSphere102
+    100224: GeoSphere103
+    100226: GeoSphere104
+    100228: GeoSphere105
+    100230: GeoSphere106
+    100232: GeoSphere107
+    100234: GeoSphere108
+    100236: GeoSphere109
+    100238: GeoSphere110
+    100240: GeoSphere111
+    100242: GeoSphere112
+    100244: GeoSphere113
+    100246: GeoSphere114
+    100248: GeoSphere115
+    100250: GeoSphere116
+    100252: GeoSphere117
+    100254: GeoSphere118
+    100256: GeoSphere119
+    100258: GeoSphere120
+    100260: GeoSphere121
+    100262: GeoSphere122
+    100264: GeoSphere123
+    100266: GeoSphere124
+    100268: GeoSphere125
+    100270: GeoSphere126
+    100272: GeoSphere127
+    100274: GeoSphere128
+    100276: GeoSphere129
+    100278: GeoSphere130
+    100280: GeoSphere131
+    100282: GeoSphere132
+    100284: GeoSphere133
+    100286: GeoSphere134
+    100288: GeoSphere135
+    100290: GeoSphere136
+    100292: GeoSphere137
+    100294: GeoSphere138
+    100296: GeoSphere139
+    100298: GeoSphere140
+    100300: GeoSphere141
+    100302: GeoSphere142
+    100304: GeoSphere143
+    100306: GeoSphere144
+    100308: GeoSphere145
+    100310: GeoSphere146
+    100312: GeoSphere147
+    100314: GeoSphere148
+    100316: GeoSphere149
+    100318: GeoSphere150
+    100320: GeoSphere151
+    100322: GeoSphere152
+    100324: GeoSphere154
+    100326: GeoSphere155
+    100328: GeoSphere156
+    100330: GeoSphere157
+    100332: GeoSphere158
+    100334: GeoSphere159
+    100336: GeoSphere160
+    100338: GeoSphere161
+    100340: GeoSphere162
+    100342: GeoSphere163
+    100344: GeoSphere164
+    100346: GeoSphere165
+    100348: GeoSphere166
+    100350: GeoSphere167
+    100352: GeoSphere168
+    100354: GeoSphere169
+    100356: GeoSphere170
+    100358: GeoSphere171
+    100360: GeoSphere172
+    100362: GeoSphere173
+    100364: GeoSphere174
+    100366: GeoSphere175
+    100368: GeoSphere176
+    100370: GeoSphere177
+    100372: GeoSphere178
+    100374: GeoSphere179
+    100376: GeoSphere180
+    100378: GeoSphere181
+    100380: GeoSphere182
+    100382: GeoSphere183
+    100384: GeoSphere184
+    100386: GeoSphere185
+    100388: GeoSphere186
+    100390: GeoSphere187
+    100392: GeoSphere188
+    100394: GeoSphere189
+    100396: GeoSphere190
+    100398: GeoSphere191
+    100400: GeoSphere192
+    100402: GeoSphere193
+    100404: GeoSphere194
+    100406: GeoSphere195
+    100408: GeoSphere196
+    100410: GeoSphere197
+    100412: GeoSphere198
+    100414: GeoSphere199
+    100416: GeoSphere200
+    100418: GeoSphere201
+    100420: GeoSphere202
+    100422: GeoSphere203
+    100424: GeoSphere204
+    100426: GeoSphere205
+    100428: GeoSphere206
+    100430: GeoSphere207
+    100432: GeoSphere208
+    100434: GeoSphere209
+    100436: GeoSphere210
+    100438: GeoSphere211
+    100440: GeoSphere212
+    100442: GeoSphere213
+    100444: GeoSphere214
+    100446: GeoSphere215
+    100448: GeoSphere216
+    100450: GeoSphere217
+    100452: GeoSphere218
+    100454: GeoSphere219
+    100456: GeoSphere220
+    100458: GeoSphere221
+    100460: GeoSphere222
+    100462: GeoSphere223
+    100464: GeoSphere224
+    100466: GeoSphere225
+    100468: GeoSphere226
+    100470: GeoSphere227
+    100472: GeoSphere228
+    100474: GeoSphere229
+    100476: GeoSphere230
+    100478: GeoSphere231
+    100480: GeoSphere232
+    100482: GeoSphere233
+    100484: GeoSphere234
+    100486: GeoSphere235
+    100488: GeoSphere236
+    100490: GeoSphere237
+    100492: GeoSphere238
+    100494: GeoSphere239
+    100496: GeoSphere240
+    100498: GeoSphere241
+    100500: GeoSphere246
+    100502: GeoSphere247
+    100504: GeoSphere248
+    100506: GeoSphere249
+    100508: GeoSphere250
+    100510: GeoSphere251
+    100512: GeoSphere252
+    100514: GeoSphere253
+    100516: GeoSphere254
+    100518: GeoSphere255
+    100520: GeoSphere256
+    100522: GeoSphere257
+    100524: GeoSphere258
+    100526: GeoSphere259
+    100528: GeoSphere260
+    100530: GeoSphere261
+    100532: GeoSphere262
+    100534: GeoSphere263
+    100536: GeoSphere264
+    100538: GeoSphere265
+    100540: GeoSphere266
+    100542: GeoSphere267
+    100544: GeoSphere268
+    100546: GeoSphere269
+    100548: GeoSphere270
+    100550: GeoSphere271
+    100552: GeoSphere272
+    100554: GeoSphere273
+    100556: GeoSphere274
+    100558: GeoSphere275
+    100560: GeoSphere276
+    100562: GeoSphere277
+    100564: GeoSphere278
+    100566: GeoSphere279
+    100568: GeoSphere280
+    100570: GeoSphere281
+    100572: GeoSphere282
+    100574: GeoSphere283
+    100576: GeoSphere284
+    100578: GeoSphere285
+    100580: GeoSphere286
+    100582: GeoSphere287
+    100584: GeoSphere288
+    100586: GeoSphere289
+    100588: GeoSphere290
+    100590: GeoSphere291
+    100592: GeoSphere292
+    100594: GeoSphere293
+    100596: GeoSphere294
+    100598: GeoSphere295
+    100600: GeoSphere296
+    100602: GeoSphere297
+    100604: GeoSphere298
+    100606: GeoSphere299
+    100608: GeoSphere300
+    100610: GeoSphere301
+    100612: GeoSphere302
+    100614: GeoSphere303
+    100616: GeoSphere304
+    100618: GeoSphere305
+    100620: GeoSphere306
+    100622: GeoSphere307
+    100624: GeoSphere308
+    100626: GeoSphere309
+    100628: GeoSphere310
+    100630: GeoSphere311
+    100632: GeoSphere312
+    100634: GeoSphere313
+    100636: GeoSphere314
+    100638: GeoSphere315
+    100640: GeoSphere316
+    100642: GeoSphere317
+    100644: GeoSphere318
+    100646: GeoSphere319
+    100648: GeoSphere320
+    100650: GeoSphere321
+    100652: GeoSphere322
+    100654: GeoSphere323
+    100656: GeoSphere324
+    100658: GeoSphere325
+    100660: GeoSphere326
+    100662: GeoSphere327
+    100664: GeoSphere328
+    100666: GeoSphere329
+    100668: GeoSphere330
+    100670: GeoSphere331
+    100672: GeoSphere332
+    100674: Ground
+    100676: Hut
+    100678: Hut001
+    100680: Hut002
+    100682: Roof
+    100684: Roof001
+    100686: Roof002
+    100688: Sky002
+    100690: Sun001
+    100692: Tree 002
+    100694: Tree 003
+    100696: Tree 004
+    100698: Tree 005
+    100700: Tree 006
+    100702: Tree 007
+    100704: Tree 008
+    100706: Tree 009
+    100708: Tree 010
+    100710: Tree 011
+    100712: Tree 012
+    100714: Tree 013
+    100716: Tree 014
+    100718: Tree 015
+    100720: Tree 016
+    100722: Tree 017
+    100724: Tree 018
+    100726: Tree 019
+    100728: Tree 020
+    100730: Tree 021
+    100732: Tree 022
+    100734: Tree 023
+    100736: Tree 024
+    100738: Tree 025
+    100740: Tree 026
+    100742: Tree 027
+    100744: Tree 028
+    100746: Tree 029
+    100748: Tree 030
+    100750: Tree 031
+    100752: Tree 032
+    100754: Tree 033
+    100756: Tree 034
+    100758: Tree 035
+    100760: Tree 036
+    100762: Tree 037
+    100764: Tree 038
+    100766: Tree 039
+    100768: Tree 040
+    100770: Tree 041
+    100772: Tree 042
+    100774: Tree 043
+    100776: Tree 044
+    100778: Tree 045
+    100780: Tree 046
+    100782: Tree 047
+    100784: Tree 048
+    100786: Tree 049
+    100788: Tree 050
+    100790: Tree 051
+    100792: Tree 052
+    100794: Tree 053
+    100796: Tree 054
+    100798: Tree 055
+    100800: Tree 056
+    100802: Tree 057
+    100804: Tree 058
+    100806: Tree 059
+    100808: Tree 060
+    100810: Tree 061
+    100812: Tree 062
+    100814: Tree 063
+    100816: Tree 064
+    100818: Tree 065
+    100820: Tree 066
+    100822: Tree 067
+    100824: Tree 068
+    100826: Tree 069
+    100828: Tree 070
+    100830: Tree 071
+    100832: Tree 073
+    100834: Tree 074
+    100836: Tree 075
+    100838: Tree 076
+    100840: Tree 077
+    100842: Tree 078
+    100844: Tree 079
+    100846: Tree 080
+    100848: Tree 081
+    100850: Tree 082
+    100852: Tree 083
+    100854: Tree 084
+    100856: Tree 085
+    100858: Tree 086
+    100860: Tree 087
+    100862: Tree 088
+    100864: Tree 089
+    100866: Tree 090
+    100868: Tree 091
+    100870: Tree 092
+    100872: Tree 093
+    100874: Tree 094
+    100876: Tree 095
+    100878: Tree 096
+    100880: Tree 097
+    100882: Tree 098
+    100884: Tree 099
+    100886: Tree 1
+    100888: Tree 100
+    100890: Tree 101
+    100892: Tree 102
+    100894: Tree 103
+    100896: Tree 104
+    100898: Tree 105
+    100900: Tree 106
+    100902: Tree 107
+    100904: Tree 108
+    100906: Tree 109
+    100908: Tree 110
+    100910: Tree 111
+    100912: Tree 112
+    100914: Tree 113
+    100916: Tree 114
+    100918: Tree 115
+    100920: Tree 117
+    100922: Tree 118
+    100924: Tree 119
+    100926: Tree 120
+    100928: Tree 121
+    100930: Tree 122
+    100932: Tree 123
+    100934: Tree 124
+    100936: Tree 125
+    100938: Tree 126
+    100940: Tree 127
+    100942: Tree 128
+    100944: Tree 129
+    100946: Tree 130
+    100948: Tree 131
+    100950: Tree 132
+    100952: Tree 133
+    100954: Tree 134
+    100956: Tree 135
+    100958: Tree 136
+    100960: Tree 137
+    100962: Tree 138
+    100964: Tree 139
+    100966: Tree 140
+    100968: Tree 141
+    100970: Tree 142
+    100972: Tree 143
+    100974: Tree 144
+    100976: Tree 145
+    100978: Tree 146
+    100980: Tree 147
+    100982: Tree 148
+    100984: Tree 149
+    100986: Tree 150
+    100988: Tree 151
+    100990: Tree 152
+    100992: Tree 153
+    100994: Tree 154
+    100996: Tree 155
+    100998: Trunk
+    101000: Trunk001
+    101002: Trunk002
+    101004: Trunk003
+    101006: Trunk004
+    101008: Trunk005
+    101010: Trunk006
+    101012: Trunk007
+    101014: Trunk008
+    101016: Trunk009
+    101018: Trunk010
+    101020: Trunk011
+    101022: Trunk012
+    101024: Trunk013
+    101026: Trunk014
+    101028: Trunk015
+    101030: Trunk016
+    101032: Trunk017
+    101034: Trunk018
+    101036: Trunk019
+    101038: Trunk020
+    101040: Trunk021
+    101042: Trunk022
+    101044: Trunk023
+    101046: Trunk024
+    101048: Trunk025
+    101050: Trunk026
+    101052: Trunk027
+    101054: Trunk028
+    101056: Trunk029
+    101058: Trunk030
+    101060: Trunk031
+    101062: Trunk032
+    101064: Trunk033
+    101066: Trunk034
+    101068: Trunk035
+    101070: Trunk036
+    101072: Trunk037
+    101074: Trunk038
+    101076: Trunk039
+    101078: Trunk040
+    101080: Trunk041
+    101082: Trunk042
+    101084: Trunk043
+    101086: Trunk044
+    101088: Trunk045
+    101090: Trunk046
+    101092: Trunk047
+    101094: Trunk048
+    101096: Trunk049
+    101098: Trunk050
+    101100: Trunk051
+    101102: Trunk052
+    101104: Trunk053
+    101106: Trunk054
+    101108: Trunk055
+    101110: Trunk056
+    101112: Trunk057
+    101114: Trunk058
+    101116: Trunk059
+    101118: Trunk060
+    101120: Trunk061
+    101122: Trunk062
+    101124: Trunk063
+    101126: Trunk064
+    101128: Trunk065
+    101130: Trunk066
+    101132: Trunk067
+    101134: Trunk068
+    101136: Trunk069
+    101138: Trunk070
+    101140: Trunk072
+    101142: Trunk073
+    101144: Trunk074
+    101146: Trunk075
+    101148: Trunk076
+    101150: Trunk077
+    101152: Trunk078
+    101154: Trunk079
+    101156: Trunk080
+    101158: Trunk081
+    101160: Trunk082
+    101162: Trunk083
+    101164: Trunk084
+    101166: Trunk085
+    101168: Trunk086
+    101170: Trunk087
+    101172: Trunk088
+    101174: Trunk089
+    101176: Trunk090
+    101178: Trunk091
+    101180: Trunk092
+    101182: Trunk093
+    101184: Trunk094
+    101186: Trunk095
+    101188: Trunk096
+    101190: Trunk097
+    101192: Trunk098
+    101194: Trunk099
+    101196: Trunk100
+    101198: Trunk101
+    101200: Trunk102
+    101202: Trunk103
+    101204: Trunk104
+    101206: Trunk105
+    101208: Trunk106
+    101210: Trunk107
+    101212: Trunk108
+    101214: Trunk109
+    101216: Trunk110
+    101218: Trunk111
+    101220: Trunk112
+    101222: Trunk113
+    101224: Trunk114
+    101226: Trunk116
+    101228: Trunk117
+    101230: Trunk118
+    101232: Trunk119
+    101234: Trunk120
+    101236: Trunk121
+    101238: Trunk122
+    101240: Trunk123
+    101242: Trunk124
+    101244: Trunk125
+    101246: Trunk126
+    101248: Trunk127
+    101250: Trunk128
+    101252: Trunk129
+    101254: Trunk130
+    101256: Trunk131
+    101258: Trunk132
+    101260: Trunk133
+    101262: Trunk134
+    101264: Trunk135
+    101266: Trunk136
+    101268: Trunk137
+    101270: Trunk138
+    101272: Trunk139
+    101274: Trunk140
+    101276: Trunk141
+    101278: Trunk142
+    101280: Trunk143
+    101282: Trunk144
+    101284: Trunk145
+    101286: Trunk146
+    101288: Trunk147
+    101290: Trunk148
+    101292: Trunk149
+    101294: Trunk150
+    101296: Trunk151
+    101298: Trunk152
+    101300: Trunk153
+    101302: Trunk154
+    101304: Underground
+    101306: Water
+    400000: Body
+    400002: Body001
+    400004: Body002
+    400006: Camera001
+    400008: Camera001.Target
+    400010: Compass001
+    400012: Daylight001
+    400014: Direct001
+    400016: Direct001.Target
+    400018: //RootNode
+    400020: GeoSphere001
+    400022: GeoSphere002
+    400024: GeoSphere003
+    400026: GeoSphere004
+    400028: GeoSphere005
+    400030: GeoSphere006
+    400032: GeoSphere007
+    400034: GeoSphere008
+    400036: GeoSphere009
+    400038: GeoSphere010
+    400040: GeoSphere011
+    400042: GeoSphere012
+    400044: GeoSphere013
+    400046: GeoSphere014
+    400048: GeoSphere015
+    400050: GeoSphere016
+    400052: GeoSphere017
+    400054: GeoSphere018
+    400056: GeoSphere019
+    400058: GeoSphere020
+    400060: GeoSphere021
+    400062: GeoSphere022
+    400064: GeoSphere023
+    400066: GeoSphere024
+    400068: GeoSphere025
+    400070: GeoSphere026
+    400072: GeoSphere027
+    400074: GeoSphere028
+    400076: GeoSphere029
+    400078: GeoSphere030
+    400080: GeoSphere031
+    400082: GeoSphere032
+    400084: GeoSphere033
+    400086: GeoSphere034
+    400088: GeoSphere035
+    400090: GeoSphere036
+    400092: GeoSphere037
+    400094: GeoSphere038
+    400096: GeoSphere039
+    400098: GeoSphere040
+    400100: GeoSphere041
+    400102: GeoSphere042
+    400104: GeoSphere043
+    400106: GeoSphere044
+    400108: GeoSphere045
+    400110: GeoSphere046
+    400112: GeoSphere047
+    400114: GeoSphere048
+    400116: GeoSphere049
+    400118: GeoSphere050
+    400120: GeoSphere051
+    400122: GeoSphere052
+    400124: GeoSphere053
+    400126: GeoSphere054
+    400128: GeoSphere055
+    400130: GeoSphere056
+    400132: GeoSphere057
+    400134: GeoSphere058
+    400136: GeoSphere059
+    400138: GeoSphere060
+    400140: GeoSphere061
+    400142: GeoSphere062
+    400144: GeoSphere063
+    400146: GeoSphere064
+    400148: GeoSphere065
+    400150: GeoSphere066
+    400152: GeoSphere067
+    400154: GeoSphere068
+    400156: GeoSphere069
+    400158: GeoSphere070
+    400160: GeoSphere071
+    400162: GeoSphere072
+    400164: GeoSphere073
+    400166: GeoSphere074
+    400168: GeoSphere075
+    400170: GeoSphere076
+    400172: GeoSphere077
+    400174: GeoSphere078
+    400176: GeoSphere079
+    400178: GeoSphere080
+    400180: GeoSphere081
+    400182: GeoSphere082
+    400184: GeoSphere083
+    400186: GeoSphere084
+    400188: GeoSphere085
+    400190: GeoSphere086
+    400192: GeoSphere087
+    400194: GeoSphere088
+    400196: GeoSphere089
+    400198: GeoSphere090
+    400200: GeoSphere091
+    400202: GeoSphere092
+    400204: GeoSphere093
+    400206: GeoSphere094
+    400208: GeoSphere095
+    400210: GeoSphere096
+    400212: GeoSphere097
+    400214: GeoSphere098
+    400216: GeoSphere099
+    400218: GeoSphere100
+    400220: GeoSphere101
+    400222: GeoSphere102
+    400224: GeoSphere103
+    400226: GeoSphere104
+    400228: GeoSphere105
+    400230: GeoSphere106
+    400232: GeoSphere107
+    400234: GeoSphere108
+    400236: GeoSphere109
+    400238: GeoSphere110
+    400240: GeoSphere111
+    400242: GeoSphere112
+    400244: GeoSphere113
+    400246: GeoSphere114
+    400248: GeoSphere115
+    400250: GeoSphere116
+    400252: GeoSphere117
+    400254: GeoSphere118
+    400256: GeoSphere119
+    400258: GeoSphere120
+    400260: GeoSphere121
+    400262: GeoSphere122
+    400264: GeoSphere123
+    400266: GeoSphere124
+    400268: GeoSphere125
+    400270: GeoSphere126
+    400272: GeoSphere127
+    400274: GeoSphere128
+    400276: GeoSphere129
+    400278: GeoSphere130
+    400280: GeoSphere131
+    400282: GeoSphere132
+    400284: GeoSphere133
+    400286: GeoSphere134
+    400288: GeoSphere135
+    400290: GeoSphere136
+    400292: GeoSphere137
+    400294: GeoSphere138
+    400296: GeoSphere139
+    400298: GeoSphere140
+    400300: GeoSphere141
+    400302: GeoSphere142
+    400304: GeoSphere143
+    400306: GeoSphere144
+    400308: GeoSphere145
+    400310: GeoSphere146
+    400312: GeoSphere147
+    400314: GeoSphere148
+    400316: GeoSphere149
+    400318: GeoSphere150
+    400320: GeoSphere151
+    400322: GeoSphere152
+    400324: GeoSphere154
+    400326: GeoSphere155
+    400328: GeoSphere156
+    400330: GeoSphere157
+    400332: GeoSphere158
+    400334: GeoSphere159
+    400336: GeoSphere160
+    400338: GeoSphere161
+    400340: GeoSphere162
+    400342: GeoSphere163
+    400344: GeoSphere164
+    400346: GeoSphere165
+    400348: GeoSphere166
+    400350: GeoSphere167
+    400352: GeoSphere168
+    400354: GeoSphere169
+    400356: GeoSphere170
+    400358: GeoSphere171
+    400360: GeoSphere172
+    400362: GeoSphere173
+    400364: GeoSphere174
+    400366: GeoSphere175
+    400368: GeoSphere176
+    400370: GeoSphere177
+    400372: GeoSphere178
+    400374: GeoSphere179
+    400376: GeoSphere180
+    400378: GeoSphere181
+    400380: GeoSphere182
+    400382: GeoSphere183
+    400384: GeoSphere184
+    400386: GeoSphere185
+    400388: GeoSphere186
+    400390: GeoSphere187
+    400392: GeoSphere188
+    400394: GeoSphere189
+    400396: GeoSphere190
+    400398: GeoSphere191
+    400400: GeoSphere192
+    400402: GeoSphere193
+    400404: GeoSphere194
+    400406: GeoSphere195
+    400408: GeoSphere196
+    400410: GeoSphere197
+    400412: GeoSphere198
+    400414: GeoSphere199
+    400416: GeoSphere200
+    400418: GeoSphere201
+    400420: GeoSphere202
+    400422: GeoSphere203
+    400424: GeoSphere204
+    400426: GeoSphere205
+    400428: GeoSphere206
+    400430: GeoSphere207
+    400432: GeoSphere208
+    400434: GeoSphere209
+    400436: GeoSphere210
+    400438: GeoSphere211
+    400440: GeoSphere212
+    400442: GeoSphere213
+    400444: GeoSphere214
+    400446: GeoSphere215
+    400448: GeoSphere216
+    400450: GeoSphere217
+    400452: GeoSphere218
+    400454: GeoSphere219
+    400456: GeoSphere220
+    400458: GeoSphere221
+    400460: GeoSphere222
+    400462: GeoSphere223
+    400464: GeoSphere224
+    400466: GeoSphere225
+    400468: GeoSphere226
+    400470: GeoSphere227
+    400472: GeoSphere228
+    400474: GeoSphere229
+    400476: GeoSphere230
+    400478: GeoSphere231
+    400480: GeoSphere232
+    400482: GeoSphere233
+    400484: GeoSphere234
+    400486: GeoSphere235
+    400488: GeoSphere236
+    400490: GeoSphere237
+    400492: GeoSphere238
+    400494: GeoSphere239
+    400496: GeoSphere240
+    400498: GeoSphere241
+    400500: GeoSphere246
+    400502: GeoSphere247
+    400504: GeoSphere248
+    400506: GeoSphere249
+    400508: GeoSphere250
+    400510: GeoSphere251
+    400512: GeoSphere252
+    400514: GeoSphere253
+    400516: GeoSphere254
+    400518: GeoSphere255
+    400520: GeoSphere256
+    400522: GeoSphere257
+    400524: GeoSphere258
+    400526: GeoSphere259
+    400528: GeoSphere260
+    400530: GeoSphere261
+    400532: GeoSphere262
+    400534: GeoSphere263
+    400536: GeoSphere264
+    400538: GeoSphere265
+    400540: GeoSphere266
+    400542: GeoSphere267
+    400544: GeoSphere268
+    400546: GeoSphere269
+    400548: GeoSphere270
+    400550: GeoSphere271
+    400552: GeoSphere272
+    400554: GeoSphere273
+    400556: GeoSphere274
+    400558: GeoSphere275
+    400560: GeoSphere276
+    400562: GeoSphere277
+    400564: GeoSphere278
+    400566: GeoSphere279
+    400568: GeoSphere280
+    400570: GeoSphere281
+    400572: GeoSphere282
+    400574: GeoSphere283
+    400576: GeoSphere284
+    400578: GeoSphere285
+    400580: GeoSphere286
+    400582: GeoSphere287
+    400584: GeoSphere288
+    400586: GeoSphere289
+    400588: GeoSphere290
+    400590: GeoSphere291
+    400592: GeoSphere292
+    400594: GeoSphere293
+    400596: GeoSphere294
+    400598: GeoSphere295
+    400600: GeoSphere296
+    400602: GeoSphere297
+    400604: GeoSphere298
+    400606: GeoSphere299
+    400608: GeoSphere300
+    400610: GeoSphere301
+    400612: GeoSphere302
+    400614: GeoSphere303
+    400616: GeoSphere304
+    400618: GeoSphere305
+    400620: GeoSphere306
+    400622: GeoSphere307
+    400624: GeoSphere308
+    400626: GeoSphere309
+    400628: GeoSphere310
+    400630: GeoSphere311
+    400632: GeoSphere312
+    400634: GeoSphere313
+    400636: GeoSphere314
+    400638: GeoSphere315
+    400640: GeoSphere316
+    400642: GeoSphere317
+    400644: GeoSphere318
+    400646: GeoSphere319
+    400648: GeoSphere320
+    400650: GeoSphere321
+    400652: GeoSphere322
+    400654: GeoSphere323
+    400656: GeoSphere324
+    400658: GeoSphere325
+    400660: GeoSphere326
+    400662: GeoSphere327
+    400664: GeoSphere328
+    400666: GeoSphere329
+    400668: GeoSphere330
+    400670: GeoSphere331
+    400672: GeoSphere332
+    400674: Ground
+    400676: Hut
+    400678: Hut001
+    400680: Hut002
+    400682: Roof
+    400684: Roof001
+    400686: Roof002
+    400688: Sky002
+    400690: Sun001
+    400692: Tree 002
+    400694: Tree 003
+    400696: Tree 004
+    400698: Tree 005
+    400700: Tree 006
+    400702: Tree 007
+    400704: Tree 008
+    400706: Tree 009
+    400708: Tree 010
+    400710: Tree 011
+    400712: Tree 012
+    400714: Tree 013
+    400716: Tree 014
+    400718: Tree 015
+    400720: Tree 016
+    400722: Tree 017
+    400724: Tree 018
+    400726: Tree 019
+    400728: Tree 020
+    400730: Tree 021
+    400732: Tree 022
+    400734: Tree 023
+    400736: Tree 024
+    400738: Tree 025
+    400740: Tree 026
+    400742: Tree 027
+    400744: Tree 028
+    400746: Tree 029
+    400748: Tree 030
+    400750: Tree 031
+    400752: Tree 032
+    400754: Tree 033
+    400756: Tree 034
+    400758: Tree 035
+    400760: Tree 036
+    400762: Tree 037
+    400764: Tree 038
+    400766: Tree 039
+    400768: Tree 040
+    400770: Tree 041
+    400772: Tree 042
+    400774: Tree 043
+    400776: Tree 044
+    400778: Tree 045
+    400780: Tree 046
+    400782: Tree 047
+    400784: Tree 048
+    400786: Tree 049
+    400788: Tree 050
+    400790: Tree 051
+    400792: Tree 052
+    400794: Tree 053
+    400796: Tree 054
+    400798: Tree 055
+    400800: Tree 056
+    400802: Tree 057
+    400804: Tree 058
+    400806: Tree 059
+    400808: Tree 060
+    400810: Tree 061
+    400812: Tree 062
+    400814: Tree 063
+    400816: Tree 064
+    400818: Tree 065
+    400820: Tree 066
+    400822: Tree 067
+    400824: Tree 068
+    400826: Tree 069
+    400828: Tree 070
+    400830: Tree 071
+    400832: Tree 073
+    400834: Tree 074
+    400836: Tree 075
+    400838: Tree 076
+    400840: Tree 077
+    400842: Tree 078
+    400844: Tree 079
+    400846: Tree 080
+    400848: Tree 081
+    400850: Tree 082
+    400852: Tree 083
+    400854: Tree 084
+    400856: Tree 085
+    400858: Tree 086
+    400860: Tree 087
+    400862: Tree 088
+    400864: Tree 089
+    400866: Tree 090
+    400868: Tree 091
+    400870: Tree 092
+    400872: Tree 093
+    400874: Tree 094
+    400876: Tree 095
+    400878: Tree 096
+    400880: Tree 097
+    400882: Tree 098
+    400884: Tree 099
+    400886: Tree 1
+    400888: Tree 100
+    400890: Tree 101
+    400892: Tree 102
+    400894: Tree 103
+    400896: Tree 104
+    400898: Tree 105
+    400900: Tree 106
+    400902: Tree 107
+    400904: Tree 108
+    400906: Tree 109
+    400908: Tree 110
+    400910: Tree 111
+    400912: Tree 112
+    400914: Tree 113
+    400916: Tree 114
+    400918: Tree 115
+    400920: Tree 117
+    400922: Tree 118
+    400924: Tree 119
+    400926: Tree 120
+    400928: Tree 121
+    400930: Tree 122
+    400932: Tree 123
+    400934: Tree 124
+    400936: Tree 125
+    400938: Tree 126
+    400940: Tree 127
+    400942: Tree 128
+    400944: Tree 129
+    400946: Tree 130
+    400948: Tree 131
+    400950: Tree 132
+    400952: Tree 133
+    400954: Tree 134
+    400956: Tree 135
+    400958: Tree 136
+    400960: Tree 137
+    400962: Tree 138
+    400964: Tree 139
+    400966: Tree 140
+    400968: Tree 141
+    400970: Tree 142
+    400972: Tree 143
+    400974: Tree 144
+    400976: Tree 145
+    400978: Tree 146
+    400980: Tree 147
+    400982: Tree 148
+    400984: Tree 149
+    400986: Tree 150
+    400988: Tree 151
+    400990: Tree 152
+    400992: Tree 153
+    400994: Tree 154
+    400996: Tree 155
+    400998: Trunk
+    401000: Trunk001
+    401002: Trunk002
+    401004: Trunk003
+    401006: Trunk004
+    401008: Trunk005
+    401010: Trunk006
+    401012: Trunk007
+    401014: Trunk008
+    401016: Trunk009
+    401018: Trunk010
+    401020: Trunk011
+    401022: Trunk012
+    401024: Trunk013
+    401026: Trunk014
+    401028: Trunk015
+    401030: Trunk016
+    401032: Trunk017
+    401034: Trunk018
+    401036: Trunk019
+    401038: Trunk020
+    401040: Trunk021
+    401042: Trunk022
+    401044: Trunk023
+    401046: Trunk024
+    401048: Trunk025
+    401050: Trunk026
+    401052: Trunk027
+    401054: Trunk028
+    401056: Trunk029
+    401058: Trunk030
+    401060: Trunk031
+    401062: Trunk032
+    401064: Trunk033
+    401066: Trunk034
+    401068: Trunk035
+    401070: Trunk036
+    401072: Trunk037
+    401074: Trunk038
+    401076: Trunk039
+    401078: Trunk040
+    401080: Trunk041
+    401082: Trunk042
+    401084: Trunk043
+    401086: Trunk044
+    401088: Trunk045
+    401090: Trunk046
+    401092: Trunk047
+    401094: Trunk048
+    401096: Trunk049
+    401098: Trunk050
+    401100: Trunk051
+    401102: Trunk052
+    401104: Trunk053
+    401106: Trunk054
+    401108: Trunk055
+    401110: Trunk056
+    401112: Trunk057
+    401114: Trunk058
+    401116: Trunk059
+    401118: Trunk060
+    401120: Trunk061
+    401122: Trunk062
+    401124: Trunk063
+    401126: Trunk064
+    401128: Trunk065
+    401130: Trunk066
+    401132: Trunk067
+    401134: Trunk068
+    401136: Trunk069
+    401138: Trunk070
+    401140: Trunk072
+    401142: Trunk073
+    401144: Trunk074
+    401146: Trunk075
+    401148: Trunk076
+    401150: Trunk077
+    401152: Trunk078
+    401154: Trunk079
+    401156: Trunk080
+    401158: Trunk081
+    401160: Trunk082
+    401162: Trunk083
+    401164: Trunk084
+    401166: Trunk085
+    401168: Trunk086
+    401170: Trunk087
+    401172: Trunk088
+    401174: Trunk089
+    401176: Trunk090
+    401178: Trunk091
+    401180: Trunk092
+    401182: Trunk093
+    401184: Trunk094
+    401186: Trunk095
+    401188: Trunk096
+    401190: Trunk097
+    401192: Trunk098
+    401194: Trunk099
+    401196: Trunk100
+    401198: Trunk101
+    401200: Trunk102
+    401202: Trunk103
+    401204: Trunk104
+    401206: Trunk105
+    401208: Trunk106
+    401210: Trunk107
+    401212: Trunk108
+    401214: Trunk109
+    401216: Trunk110
+    401218: Trunk111
+    401220: Trunk112
+    401222: Trunk113
+    401224: Trunk114
+    401226: Trunk116
+    401228: Trunk117
+    401230: Trunk118
+    401232: Trunk119
+    401234: Trunk120
+    401236: Trunk121
+    401238: Trunk122
+    401240: Trunk123
+    401242: Trunk124
+    401244: Trunk125
+    401246: Trunk126
+    401248: Trunk127
+    401250: Trunk128
+    401252: Trunk129
+    401254: Trunk130
+    401256: Trunk131
+    401258: Trunk132
+    401260: Trunk133
+    401262: Trunk134
+    401264: Trunk135
+    401266: Trunk136
+    401268: Trunk137
+    401270: Trunk138
+    401272: Trunk139
+    401274: Trunk140
+    401276: Trunk141
+    401278: Trunk142
+    401280: Trunk143
+    401282: Trunk144
+    401284: Trunk145
+    401286: Trunk146
+    401288: Trunk147
+    401290: Trunk148
+    401292: Trunk149
+    401294: Trunk150
+    401296: Trunk151
+    401298: Trunk152
+    401300: Trunk153
+    401302: Trunk154
+    401304: Underground
+    401306: Water
+    2300000: Body
+    2300002: Body001
+    2300004: Body002
+    2300006: GeoSphere001
+    2300008: GeoSphere002
+    2300010: GeoSphere003
+    2300012: GeoSphere004
+    2300014: GeoSphere005
+    2300016: GeoSphere006
+    2300018: GeoSphere007
+    2300020: GeoSphere008
+    2300022: GeoSphere009
+    2300024: GeoSphere010
+    2300026: GeoSphere011
+    2300028: GeoSphere012
+    2300030: GeoSphere013
+    2300032: GeoSphere014
+    2300034: GeoSphere015
+    2300036: GeoSphere016
+    2300038: GeoSphere017
+    2300040: GeoSphere018
+    2300042: GeoSphere019
+    2300044: GeoSphere020
+    2300046: GeoSphere021
+    2300048: GeoSphere022
+    2300050: GeoSphere023
+    2300052: GeoSphere024
+    2300054: GeoSphere025
+    2300056: GeoSphere026
+    2300058: GeoSphere027
+    2300060: GeoSphere028
+    2300062: GeoSphere029
+    2300064: GeoSphere030
+    2300066: GeoSphere031
+    2300068: GeoSphere032
+    2300070: GeoSphere033
+    2300072: GeoSphere034
+    2300074: GeoSphere035
+    2300076: GeoSphere036
+    2300078: GeoSphere037
+    2300080: GeoSphere038
+    2300082: GeoSphere039
+    2300084: GeoSphere040
+    2300086: GeoSphere041
+    2300088: GeoSphere042
+    2300090: GeoSphere043
+    2300092: GeoSphere044
+    2300094: GeoSphere045
+    2300096: GeoSphere046
+    2300098: GeoSphere047
+    2300100: GeoSphere048
+    2300102: GeoSphere049
+    2300104: GeoSphere050
+    2300106: GeoSphere051
+    2300108: GeoSphere052
+    2300110: GeoSphere053
+    2300112: GeoSphere054
+    2300114: GeoSphere055
+    2300116: GeoSphere056
+    2300118: GeoSphere057
+    2300120: GeoSphere058
+    2300122: GeoSphere059
+    2300124: GeoSphere060
+    2300126: GeoSphere061
+    2300128: GeoSphere062
+    2300130: GeoSphere063
+    2300132: GeoSphere064
+    2300134: GeoSphere065
+    2300136: GeoSphere066
+    2300138: GeoSphere067
+    2300140: GeoSphere068
+    2300142: GeoSphere069
+    2300144: GeoSphere070
+    2300146: GeoSphere071
+    2300148: GeoSphere072
+    2300150: GeoSphere073
+    2300152: GeoSphere074
+    2300154: GeoSphere075
+    2300156: GeoSphere076
+    2300158: GeoSphere077
+    2300160: GeoSphere078
+    2300162: GeoSphere079
+    2300164: GeoSphere080
+    2300166: GeoSphere081
+    2300168: GeoSphere082
+    2300170: GeoSphere083
+    2300172: GeoSphere084
+    2300174: GeoSphere085
+    2300176: GeoSphere086
+    2300178: GeoSphere087
+    2300180: GeoSphere088
+    2300182: GeoSphere089
+    2300184: GeoSphere090
+    2300186: GeoSphere091
+    2300188: GeoSphere092
+    2300190: GeoSphere093
+    2300192: GeoSphere094
+    2300194: GeoSphere095
+    2300196: GeoSphere096
+    2300198: GeoSphere097
+    2300200: GeoSphere098
+    2300202: GeoSphere099
+    2300204: GeoSphere100
+    2300206: GeoSphere101
+    2300208: GeoSphere102
+    2300210: GeoSphere103
+    2300212: GeoSphere104
+    2300214: GeoSphere105
+    2300216: GeoSphere106
+    2300218: GeoSphere107
+    2300220: GeoSphere108
+    2300222: GeoSphere109
+    2300224: GeoSphere110
+    2300226: GeoSphere111
+    2300228: GeoSphere112
+    2300230: GeoSphere113
+    2300232: GeoSphere114
+    2300234: GeoSphere115
+    2300236: GeoSphere116
+    2300238: GeoSphere117
+    2300240: GeoSphere118
+    2300242: GeoSphere119
+    2300244: GeoSphere120
+    2300246: GeoSphere121
+    2300248: GeoSphere122
+    2300250: GeoSphere123
+    2300252: GeoSphere124
+    2300254: GeoSphere125
+    2300256: GeoSphere126
+    2300258: GeoSphere127
+    2300260: GeoSphere128
+    2300262: GeoSphere129
+    2300264: GeoSphere130
+    2300266: GeoSphere131
+    2300268: GeoSphere132
+    2300270: GeoSphere133
+    2300272: GeoSphere134
+    2300274: GeoSphere135
+    2300276: GeoSphere136
+    2300278: GeoSphere137
+    2300280: GeoSphere138
+    2300282: GeoSphere139
+    2300284: GeoSphere140
+    2300286: GeoSphere141
+    2300288: GeoSphere142
+    2300290: GeoSphere143
+    2300292: GeoSphere144
+    2300294: GeoSphere145
+    2300296: GeoSphere146
+    2300298: GeoSphere147
+    2300300: GeoSphere148
+    2300302: GeoSphere149
+    2300304: GeoSphere150
+    2300306: GeoSphere151
+    2300308: GeoSphere152
+    2300310: GeoSphere154
+    2300312: GeoSphere155
+    2300314: GeoSphere156
+    2300316: GeoSphere157
+    2300318: GeoSphere158
+    2300320: GeoSphere159
+    2300322: GeoSphere160
+    2300324: GeoSphere161
+    2300326: GeoSphere162
+    2300328: GeoSphere163
+    2300330: GeoSphere164
+    2300332: GeoSphere165
+    2300334: GeoSphere166
+    2300336: GeoSphere167
+    2300338: GeoSphere168
+    2300340: GeoSphere169
+    2300342: GeoSphere170
+    2300344: GeoSphere171
+    2300346: GeoSphere172
+    2300348: GeoSphere173
+    2300350: GeoSphere174
+    2300352: GeoSphere175
+    2300354: GeoSphere176
+    2300356: GeoSphere177
+    2300358: GeoSphere178
+    2300360: GeoSphere179
+    2300362: GeoSphere180
+    2300364: GeoSphere181
+    2300366: GeoSphere182
+    2300368: GeoSphere183
+    2300370: GeoSphere184
+    2300372: GeoSphere185
+    2300374: GeoSphere186
+    2300376: GeoSphere187
+    2300378: GeoSphere188
+    2300380: GeoSphere189
+    2300382: GeoSphere190
+    2300384: GeoSphere191
+    2300386: GeoSphere192
+    2300388: GeoSphere193
+    2300390: GeoSphere194
+    2300392: GeoSphere195
+    2300394: GeoSphere196
+    2300396: GeoSphere197
+    2300398: GeoSphere198
+    2300400: GeoSphere199
+    2300402: GeoSphere200
+    2300404: GeoSphere201
+    2300406: GeoSphere202
+    2300408: GeoSphere203
+    2300410: GeoSphere204
+    2300412: GeoSphere205
+    2300414: GeoSphere206
+    2300416: GeoSphere207
+    2300418: GeoSphere208
+    2300420: GeoSphere209
+    2300422: GeoSphere210
+    2300424: GeoSphere211
+    2300426: GeoSphere212
+    2300428: GeoSphere213
+    2300430: GeoSphere214
+    2300432: GeoSphere215
+    2300434: GeoSphere216
+    2300436: GeoSphere217
+    2300438: GeoSphere218
+    2300440: GeoSphere219
+    2300442: GeoSphere220
+    2300444: GeoSphere221
+    2300446: GeoSphere222
+    2300448: GeoSphere223
+    2300450: GeoSphere224
+    2300452: GeoSphere225
+    2300454: GeoSphere226
+    2300456: GeoSphere227
+    2300458: GeoSphere228
+    2300460: GeoSphere229
+    2300462: GeoSphere230
+    2300464: GeoSphere231
+    2300466: GeoSphere232
+    2300468: GeoSphere233
+    2300470: GeoSphere234
+    2300472: GeoSphere235
+    2300474: GeoSphere236
+    2300476: GeoSphere237
+    2300478: GeoSphere238
+    2300480: GeoSphere239
+    2300482: GeoSphere240
+    2300484: GeoSphere241
+    2300486: GeoSphere246
+    2300488: GeoSphere247
+    2300490: GeoSphere248
+    2300492: GeoSphere249
+    2300494: GeoSphere250
+    2300496: GeoSphere251
+    2300498: GeoSphere252
+    2300500: GeoSphere253
+    2300502: GeoSphere254
+    2300504: GeoSphere255
+    2300506: GeoSphere256
+    2300508: GeoSphere257
+    2300510: GeoSphere258
+    2300512: GeoSphere259
+    2300514: GeoSphere260
+    2300516: GeoSphere261
+    2300518: GeoSphere262
+    2300520: GeoSphere263
+    2300522: GeoSphere264
+    2300524: GeoSphere265
+    2300526: GeoSphere266
+    2300528: GeoSphere267
+    2300530: GeoSphere268
+    2300532: GeoSphere269
+    2300534: GeoSphere270
+    2300536: GeoSphere271
+    2300538: GeoSphere272
+    2300540: GeoSphere273
+    2300542: GeoSphere274
+    2300544: GeoSphere275
+    2300546: GeoSphere276
+    2300548: GeoSphere277
+    2300550: GeoSphere278
+    2300552: GeoSphere279
+    2300554: GeoSphere280
+    2300556: GeoSphere281
+    2300558: GeoSphere282
+    2300560: GeoSphere283
+    2300562: GeoSphere284
+    2300564: GeoSphere285
+    2300566: GeoSphere286
+    2300568: GeoSphere287
+    2300570: GeoSphere288
+    2300572: GeoSphere289
+    2300574: GeoSphere290
+    2300576: GeoSphere291
+    2300578: GeoSphere292
+    2300580: GeoSphere293
+    2300582: GeoSphere294
+    2300584: GeoSphere295
+    2300586: GeoSphere296
+    2300588: GeoSphere297
+    2300590: GeoSphere298
+    2300592: GeoSphere299
+    2300594: GeoSphere300
+    2300596: GeoSphere301
+    2300598: GeoSphere302
+    2300600: GeoSphere303
+    2300602: GeoSphere304
+    2300604: GeoSphere305
+    2300606: GeoSphere306
+    2300608: GeoSphere307
+    2300610: GeoSphere308
+    2300612: GeoSphere309
+    2300614: GeoSphere310
+    2300616: GeoSphere311
+    2300618: GeoSphere312
+    2300620: GeoSphere313
+    2300622: GeoSphere314
+    2300624: GeoSphere315
+    2300626: GeoSphere316
+    2300628: GeoSphere317
+    2300630: GeoSphere318
+    2300632: GeoSphere319
+    2300634: GeoSphere320
+    2300636: GeoSphere321
+    2300638: GeoSphere322
+    2300640: GeoSphere323
+    2300642: GeoSphere324
+    2300644: GeoSphere325
+    2300646: GeoSphere326
+    2300648: GeoSphere327
+    2300650: GeoSphere328
+    2300652: GeoSphere329
+    2300654: GeoSphere330
+    2300656: GeoSphere331
+    2300658: GeoSphere332
+    2300660: Ground
+    2300662: Roof
+    2300664: Roof001
+    2300666: Roof002
+    2300668: Trunk
+    2300670: Trunk001
+    2300672: Trunk002
+    2300674: Trunk003
+    2300676: Trunk004
+    2300678: Trunk005
+    2300680: Trunk006
+    2300682: Trunk007
+    2300684: Trunk008
+    2300686: Trunk009
+    2300688: Trunk010
+    2300690: Trunk011
+    2300692: Trunk012
+    2300694: Trunk013
+    2300696: Trunk014
+    2300698: Trunk015
+    2300700: Trunk016
+    2300702: Trunk017
+    2300704: Trunk018
+    2300706: Trunk019
+    2300708: Trunk020
+    2300710: Trunk021
+    2300712: Trunk022
+    2300714: Trunk023
+    2300716: Trunk024
+    2300718: Trunk025
+    2300720: Trunk026
+    2300722: Trunk027
+    2300724: Trunk028
+    2300726: Trunk029
+    2300728: Trunk030
+    2300730: Trunk031
+    2300732: Trunk032
+    2300734: Trunk033
+    2300736: Trunk034
+    2300738: Trunk035
+    2300740: Trunk036
+    2300742: Trunk037
+    2300744: Trunk038
+    2300746: Trunk039
+    2300748: Trunk040
+    2300750: Trunk041
+    2300752: Trunk042
+    2300754: Trunk043
+    2300756: Trunk044
+    2300758: Trunk045
+    2300760: Trunk046
+    2300762: Trunk047
+    2300764: Trunk048
+    2300766: Trunk049
+    2300768: Trunk050
+    2300770: Trunk051
+    2300772: Trunk052
+    2300774: Trunk053
+    2300776: Trunk054
+    2300778: Trunk055
+    2300780: Trunk056
+    2300782: Trunk057
+    2300784: Trunk058
+    2300786: Trunk059
+    2300788: Trunk060
+    2300790: Trunk061
+    2300792: Trunk062
+    2300794: Trunk063
+    2300796: Trunk064
+    2300798: Trunk065
+    2300800: Trunk066
+    2300802: Trunk067
+    2300804: Trunk068
+    2300806: Trunk069
+    2300808: Trunk070
+    2300810: Trunk072
+    2300812: Trunk073
+    2300814: Trunk074
+    2300816: Trunk075
+    2300818: Trunk076
+    2300820: Trunk077
+    2300822: Trunk078
+    2300824: Trunk079
+    2300826: Trunk080
+    2300828: Trunk081
+    2300830: Trunk082
+    2300832: Trunk083
+    2300834: Trunk084
+    2300836: Trunk085
+    2300838: Trunk086
+    2300840: Trunk087
+    2300842: Trunk088
+    2300844: Trunk089
+    2300846: Trunk090
+    2300848: Trunk091
+    2300850: Trunk092
+    2300852: Trunk093
+    2300854: Trunk094
+    2300856: Trunk095
+    2300858: Trunk096
+    2300860: Trunk097
+    2300862: Trunk098
+    2300864: Trunk099
+    2300866: Trunk100
+    2300868: Trunk101
+    2300870: Trunk102
+    2300872: Trunk103
+    2300874: Trunk104
+    2300876: Trunk105
+    2300878: Trunk106
+    2300880: Trunk107
+    2300882: Trunk108
+    2300884: Trunk109
+    2300886: Trunk110
+    2300888: Trunk111
+    2300890: Trunk112
+    2300892: Trunk113
+    2300894: Trunk114
+    2300896: Trunk116
+    2300898: Trunk117
+    2300900: Trunk118
+    2300902: Trunk119
+    2300904: Trunk120
+    2300906: Trunk121
+    2300908: Trunk122
+    2300910: Trunk123
+    2300912: Trunk124
+    2300914: Trunk125
+    2300916: Trunk126
+    2300918: Trunk127
+    2300920: Trunk128
+    2300922: Trunk129
+    2300924: Trunk130
+    2300926: Trunk131
+    2300928: Trunk132
+    2300930: Trunk133
+    2300932: Trunk134
+    2300934: Trunk135
+    2300936: Trunk136
+    2300938: Trunk137
+    2300940: Trunk138
+    2300942: Trunk139
+    2300944: Trunk140
+    2300946: Trunk141
+    2300948: Trunk142
+    2300950: Trunk143
+    2300952: Trunk144
+    2300954: Trunk145
+    2300956: Trunk146
+    2300958: Trunk147
+    2300960: Trunk148
+    2300962: Trunk149
+    2300964: Trunk150
+    2300966: Trunk151
+    2300968: Trunk152
+    2300970: Trunk153
+    2300972: Trunk154
+    2300974: Underground
+    2300976: Water
+    3300000: Body
+    3300002: Body001
+    3300004: Body002
+    3300006: GeoSphere001
+    3300008: GeoSphere002
+    3300010: GeoSphere003
+    3300012: GeoSphere004
+    3300014: GeoSphere005
+    3300016: GeoSphere006
+    3300018: GeoSphere007
+    3300020: GeoSphere008
+    3300022: GeoSphere009
+    3300024: GeoSphere010
+    3300026: GeoSphere011
+    3300028: GeoSphere012
+    3300030: GeoSphere013
+    3300032: GeoSphere014
+    3300034: GeoSphere015
+    3300036: GeoSphere016
+    3300038: GeoSphere017
+    3300040: GeoSphere018
+    3300042: GeoSphere019
+    3300044: GeoSphere020
+    3300046: GeoSphere021
+    3300048: GeoSphere022
+    3300050: GeoSphere023
+    3300052: GeoSphere024
+    3300054: GeoSphere025
+    3300056: GeoSphere026
+    3300058: GeoSphere027
+    3300060: GeoSphere028
+    3300062: GeoSphere029
+    3300064: GeoSphere030
+    3300066: GeoSphere031
+    3300068: GeoSphere032
+    3300070: GeoSphere033
+    3300072: GeoSphere034
+    3300074: GeoSphere035
+    3300076: GeoSphere036
+    3300078: GeoSphere037
+    3300080: GeoSphere038
+    3300082: GeoSphere039
+    3300084: GeoSphere040
+    3300086: GeoSphere041
+    3300088: GeoSphere042
+    3300090: GeoSphere043
+    3300092: GeoSphere044
+    3300094: GeoSphere045
+    3300096: GeoSphere046
+    3300098: GeoSphere047
+    3300100: GeoSphere048
+    3300102: GeoSphere049
+    3300104: GeoSphere050
+    3300106: GeoSphere051
+    3300108: GeoSphere052
+    3300110: GeoSphere053
+    3300112: GeoSphere054
+    3300114: GeoSphere055
+    3300116: GeoSphere056
+    3300118: GeoSphere057
+    3300120: GeoSphere058
+    3300122: GeoSphere059
+    3300124: GeoSphere060
+    3300126: GeoSphere061
+    3300128: GeoSphere062
+    3300130: GeoSphere063
+    3300132: GeoSphere064
+    3300134: GeoSphere065
+    3300136: GeoSphere066
+    3300138: GeoSphere067
+    3300140: GeoSphere068
+    3300142: GeoSphere069
+    3300144: GeoSphere070
+    3300146: GeoSphere071
+    3300148: GeoSphere072
+    3300150: GeoSphere073
+    3300152: GeoSphere074
+    3300154: GeoSphere075
+    3300156: GeoSphere076
+    3300158: GeoSphere077
+    3300160: GeoSphere078
+    3300162: GeoSphere079
+    3300164: GeoSphere080
+    3300166: GeoSphere081
+    3300168: GeoSphere082
+    3300170: GeoSphere083
+    3300172: GeoSphere084
+    3300174: GeoSphere085
+    3300176: GeoSphere086
+    3300178: GeoSphere087
+    3300180: GeoSphere088
+    3300182: GeoSphere089
+    3300184: GeoSphere090
+    3300186: GeoSphere091
+    3300188: GeoSphere092
+    3300190: GeoSphere093
+    3300192: GeoSphere094
+    3300194: GeoSphere095
+    3300196: GeoSphere096
+    3300198: GeoSphere097
+    3300200: GeoSphere098
+    3300202: GeoSphere099
+    3300204: GeoSphere100
+    3300206: GeoSphere101
+    3300208: GeoSphere102
+    3300210: GeoSphere103
+    3300212: GeoSphere104
+    3300214: GeoSphere105
+    3300216: GeoSphere106
+    3300218: GeoSphere107
+    3300220: GeoSphere108
+    3300222: GeoSphere109
+    3300224: GeoSphere110
+    3300226: GeoSphere111
+    3300228: GeoSphere112
+    3300230: GeoSphere113
+    3300232: GeoSphere114
+    3300234: GeoSphere115
+    3300236: GeoSphere116
+    3300238: GeoSphere117
+    3300240: GeoSphere118
+    3300242: GeoSphere119
+    3300244: GeoSphere120
+    3300246: GeoSphere121
+    3300248: GeoSphere122
+    3300250: GeoSphere123
+    3300252: GeoSphere124
+    3300254: GeoSphere125
+    3300256: GeoSphere126
+    3300258: GeoSphere127
+    3300260: GeoSphere128
+    3300262: GeoSphere129
+    3300264: GeoSphere130
+    3300266: GeoSphere131
+    3300268: GeoSphere132
+    3300270: GeoSphere133
+    3300272: GeoSphere134
+    3300274: GeoSphere135
+    3300276: GeoSphere136
+    3300278: GeoSphere137
+    3300280: GeoSphere138
+    3300282: GeoSphere139
+    3300284: GeoSphere140
+    3300286: GeoSphere141
+    3300288: GeoSphere142
+    3300290: GeoSphere143
+    3300292: GeoSphere144
+    3300294: GeoSphere145
+    3300296: GeoSphere146
+    3300298: GeoSphere147
+    3300300: GeoSphere148
+    3300302: GeoSphere149
+    3300304: GeoSphere150
+    3300306: GeoSphere151
+    3300308: GeoSphere152
+    3300310: GeoSphere154
+    3300312: GeoSphere155
+    3300314: GeoSphere156
+    3300316: GeoSphere157
+    3300318: GeoSphere158
+    3300320: GeoSphere159
+    3300322: GeoSphere160
+    3300324: GeoSphere161
+    3300326: GeoSphere162
+    3300328: GeoSphere163
+    3300330: GeoSphere164
+    3300332: GeoSphere165
+    3300334: GeoSphere166
+    3300336: GeoSphere167
+    3300338: GeoSphere168
+    3300340: GeoSphere169
+    3300342: GeoSphere170
+    3300344: GeoSphere171
+    3300346: GeoSphere172
+    3300348: GeoSphere173
+    3300350: GeoSphere174
+    3300352: GeoSphere175
+    3300354: GeoSphere176
+    3300356: GeoSphere177
+    3300358: GeoSphere178
+    3300360: GeoSphere179
+    3300362: GeoSphere180
+    3300364: GeoSphere181
+    3300366: GeoSphere182
+    3300368: GeoSphere183
+    3300370: GeoSphere184
+    3300372: GeoSphere185
+    3300374: GeoSphere186
+    3300376: GeoSphere187
+    3300378: GeoSphere188
+    3300380: GeoSphere189
+    3300382: GeoSphere190
+    3300384: GeoSphere191
+    3300386: GeoSphere192
+    3300388: GeoSphere193
+    3300390: GeoSphere194
+    3300392: GeoSphere195
+    3300394: GeoSphere196
+    3300396: GeoSphere197
+    3300398: GeoSphere198
+    3300400: GeoSphere199
+    3300402: GeoSphere200
+    3300404: GeoSphere201
+    3300406: GeoSphere202
+    3300408: GeoSphere203
+    3300410: GeoSphere204
+    3300412: GeoSphere205
+    3300414: GeoSphere206
+    3300416: GeoSphere207
+    3300418: GeoSphere208
+    3300420: GeoSphere209
+    3300422: GeoSphere210
+    3300424: GeoSphere211
+    3300426: GeoSphere212
+    3300428: GeoSphere213
+    3300430: GeoSphere214
+    3300432: GeoSphere215
+    3300434: GeoSphere216
+    3300436: GeoSphere217
+    3300438: GeoSphere218
+    3300440: GeoSphere219
+    3300442: GeoSphere220
+    3300444: GeoSphere221
+    3300446: GeoSphere222
+    3300448: GeoSphere223
+    3300450: GeoSphere224
+    3300452: GeoSphere225
+    3300454: GeoSphere226
+    3300456: GeoSphere227
+    3300458: GeoSphere228
+    3300460: GeoSphere229
+    3300462: GeoSphere230
+    3300464: GeoSphere231
+    3300466: GeoSphere232
+    3300468: GeoSphere233
+    3300470: GeoSphere234
+    3300472: GeoSphere235
+    3300474: GeoSphere236
+    3300476: GeoSphere237
+    3300478: GeoSphere238
+    3300480: GeoSphere239
+    3300482: GeoSphere240
+    3300484: GeoSphere241
+    3300486: GeoSphere246
+    3300488: GeoSphere247
+    3300490: GeoSphere248
+    3300492: GeoSphere249
+    3300494: GeoSphere250
+    3300496: GeoSphere251
+    3300498: GeoSphere252
+    3300500: GeoSphere253
+    3300502: GeoSphere254
+    3300504: GeoSphere255
+    3300506: GeoSphere256
+    3300508: GeoSphere257
+    3300510: GeoSphere258
+    3300512: GeoSphere259
+    3300514: GeoSphere260
+    3300516: GeoSphere261
+    3300518: GeoSphere262
+    3300520: GeoSphere263
+    3300522: GeoSphere264
+    3300524: GeoSphere265
+    3300526: GeoSphere266
+    3300528: GeoSphere267
+    3300530: GeoSphere268
+    3300532: GeoSphere269
+    3300534: GeoSphere270
+    3300536: GeoSphere271
+    3300538: GeoSphere272
+    3300540: GeoSphere273
+    3300542: GeoSphere274
+    3300544: GeoSphere275
+    3300546: GeoSphere276
+    3300548: GeoSphere277
+    3300550: GeoSphere278
+    3300552: GeoSphere279
+    3300554: GeoSphere280
+    3300556: GeoSphere281
+    3300558: GeoSphere282
+    3300560: GeoSphere283
+    3300562: GeoSphere284
+    3300564: GeoSphere285
+    3300566: GeoSphere286
+    3300568: GeoSphere287
+    3300570: GeoSphere288
+    3300572: GeoSphere289
+    3300574: GeoSphere290
+    3300576: GeoSphere291
+    3300578: GeoSphere292
+    3300580: GeoSphere293
+    3300582: GeoSphere294
+    3300584: GeoSphere295
+    3300586: GeoSphere296
+    3300588: GeoSphere297
+    3300590: GeoSphere298
+    3300592: GeoSphere299
+    3300594: GeoSphere300
+    3300596: GeoSphere301
+    3300598: GeoSphere302
+    3300600: GeoSphere303
+    3300602: GeoSphere304
+    3300604: GeoSphere305
+    3300606: GeoSphere306
+    3300608: GeoSphere307
+    3300610: GeoSphere308
+    3300612: GeoSphere309
+    3300614: GeoSphere310
+    3300616: GeoSphere311
+    3300618: GeoSphere312
+    3300620: GeoSphere313
+    3300622: GeoSphere314
+    3300624: GeoSphere315
+    3300626: GeoSphere316
+    3300628: GeoSphere317
+    3300630: GeoSphere318
+    3300632: GeoSphere319
+    3300634: GeoSphere320
+    3300636: GeoSphere321
+    3300638: GeoSphere322
+    3300640: GeoSphere323
+    3300642: GeoSphere324
+    3300644: GeoSphere325
+    3300646: GeoSphere326
+    3300648: GeoSphere327
+    3300650: GeoSphere328
+    3300652: GeoSphere329
+    3300654: GeoSphere330
+    3300656: GeoSphere331
+    3300658: GeoSphere332
+    3300660: Ground
+    3300662: Roof
+    3300664: Roof001
+    3300666: Roof002
+    3300668: Trunk
+    3300670: Trunk001
+    3300672: Trunk002
+    3300674: Trunk003
+    3300676: Trunk004
+    3300678: Trunk005
+    3300680: Trunk006
+    3300682: Trunk007
+    3300684: Trunk008
+    3300686: Trunk009
+    3300688: Trunk010
+    3300690: Trunk011
+    3300692: Trunk012
+    3300694: Trunk013
+    3300696: Trunk014
+    3300698: Trunk015
+    3300700: Trunk016
+    3300702: Trunk017
+    3300704: Trunk018
+    3300706: Trunk019
+    3300708: Trunk020
+    3300710: Trunk021
+    3300712: Trunk022
+    3300714: Trunk023
+    3300716: Trunk024
+    3300718: Trunk025
+    3300720: Trunk026
+    3300722: Trunk027
+    3300724: Trunk028
+    3300726: Trunk029
+    3300728: Trunk030
+    3300730: Trunk031
+    3300732: Trunk032
+    3300734: Trunk033
+    3300736: Trunk034
+    3300738: Trunk035
+    3300740: Trunk036
+    3300742: Trunk037
+    3300744: Trunk038
+    3300746: Trunk039
+    3300748: Trunk040
+    3300750: Trunk041
+    3300752: Trunk042
+    3300754: Trunk043
+    3300756: Trunk044
+    3300758: Trunk045
+    3300760: Trunk046
+    3300762: Trunk047
+    3300764: Trunk048
+    3300766: Trunk049
+    3300768: Trunk050
+    3300770: Trunk051
+    3300772: Trunk052
+    3300774: Trunk053
+    3300776: Trunk054
+    3300778: Trunk055
+    3300780: Trunk056
+    3300782: Trunk057
+    3300784: Trunk058
+    3300786: Trunk059
+    3300788: Trunk060
+    3300790: Trunk061
+    3300792: Trunk062
+    3300794: Trunk063
+    3300796: Trunk064
+    3300798: Trunk065
+    3300800: Trunk066
+    3300802: Trunk067
+    3300804: Trunk068
+    3300806: Trunk069
+    3300808: Trunk070
+    3300810: Trunk072
+    3300812: Trunk073
+    3300814: Trunk074
+    3300816: Trunk075
+    3300818: Trunk076
+    3300820: Trunk077
+    3300822: Trunk078
+    3300824: Trunk079
+    3300826: Trunk080
+    3300828: Trunk081
+    3300830: Trunk082
+    3300832: Trunk083
+    3300834: Trunk084
+    3300836: Trunk085
+    3300838: Trunk086
+    3300840: Trunk087
+    3300842: Trunk088
+    3300844: Trunk089
+    3300846: Trunk090
+    3300848: Trunk091
+    3300850: Trunk092
+    3300852: Trunk093
+    3300854: Trunk094
+    3300856: Trunk095
+    3300858: Trunk096
+    3300860: Trunk097
+    3300862: Trunk098
+    3300864: Trunk099
+    3300866: Trunk100
+    3300868: Trunk101
+    3300870: Trunk102
+    3300872: Trunk103
+    3300874: Trunk104
+    3300876: Trunk105
+    3300878: Trunk106
+    3300880: Trunk107
+    3300882: Trunk108
+    3300884: Trunk109
+    3300886: Trunk110
+    3300888: Trunk111
+    3300890: Trunk112
+    3300892: Trunk113
+    3300894: Trunk114
+    3300896: Trunk116
+    3300898: Trunk117
+    3300900: Trunk118
+    3300902: Trunk119
+    3300904: Trunk120
+    3300906: Trunk121
+    3300908: Trunk122
+    3300910: Trunk123
+    3300912: Trunk124
+    3300914: Trunk125
+    3300916: Trunk126
+    3300918: Trunk127
+    3300920: Trunk128
+    3300922: Trunk129
+    3300924: Trunk130
+    3300926: Trunk131
+    3300928: Trunk132
+    3300930: Trunk133
+    3300932: Trunk134
+    3300934: Trunk135
+    3300936: Trunk136
+    3300938: Trunk137
+    3300940: Trunk138
+    3300942: Trunk139
+    3300944: Trunk140
+    3300946: Trunk141
+    3300948: Trunk142
+    3300950: Trunk143
+    3300952: Trunk144
+    3300954: Trunk145
+    3300956: Trunk146
+    3300958: Trunk147
+    3300960: Trunk148
+    3300962: Trunk149
+    3300964: Trunk150
+    3300966: Trunk151
+    3300968: Trunk152
+    3300970: Trunk153
+    3300972: Trunk154
+    3300974: Underground
+    3300976: Water
+    4300000: Ground
+    4300002: Water
+    4300004: Body
+    4300006: Roof
+    4300008: Roof001
+    4300010: Body001
+    4300012: Roof002
+    4300014: Body002
+    4300016: GeoSphere001
+    4300018: Trunk
+    4300020: GeoSphere002
+    4300022: Trunk001
+    4300024: GeoSphere003
+    4300026: Trunk002
+    4300028: GeoSphere004
+    4300030: Trunk003
+    4300032: GeoSphere005
+    4300034: GeoSphere006
+    4300036: GeoSphere007
+    4300038: GeoSphere008
+    4300040: Trunk004
+    4300042: GeoSphere009
+    4300044: GeoSphere010
+    4300046: GeoSphere011
+    4300048: GeoSphere012
+    4300050: Trunk005
+    4300052: GeoSphere013
+    4300054: Trunk006
+    4300056: GeoSphere014
+    4300058: Trunk007
+    4300060: GeoSphere015
+    4300062: GeoSphere016
+    4300064: GeoSphere017
+    4300066: GeoSphere018
+    4300068: Trunk008
+    4300070: GeoSphere019
+    4300072: Trunk009
+    4300074: GeoSphere020
+    4300076: GeoSphere021
+    4300078: GeoSphere022
+    4300080: GeoSphere023
+    4300082: Trunk010
+    4300084: GeoSphere024
+    4300086: Trunk011
+    4300088: GeoSphere025
+    4300090: Trunk012
+    4300092: GeoSphere026
+    4300094: GeoSphere027
+    4300096: GeoSphere028
+    4300098: GeoSphere029
+    4300100: Trunk013
+    4300102: GeoSphere030
+    4300104: Trunk014
+    4300106: GeoSphere031
+    4300108: GeoSphere032
+    4300110: GeoSphere033
+    4300112: GeoSphere034
+    4300114: Trunk015
+    4300116: GeoSphere035
+    4300118: Trunk016
+    4300120: GeoSphere036
+    4300122: Trunk017
+    4300124: GeoSphere037
+    4300126: Trunk018
+    4300128: GeoSphere038
+    4300130: Trunk019
+    4300132: GeoSphere039
+    4300134: Trunk020
+    4300136: GeoSphere040
+    4300138: GeoSphere041
+    4300140: GeoSphere042
+    4300142: GeoSphere043
+    4300144: Trunk021
+    4300146: GeoSphere044
+    4300148: Trunk022
+    4300150: GeoSphere045
+    4300152: Trunk023
+    4300154: GeoSphere046
+    4300156: GeoSphere047
+    4300158: GeoSphere048
+    4300160: GeoSphere049
+    4300162: Trunk024
+    4300164: GeoSphere050
+    4300166: Trunk025
+    4300168: GeoSphere051
+    4300170: Trunk026
+    4300172: GeoSphere052
+    4300174: Trunk027
+    4300176: GeoSphere053
+    4300178: GeoSphere054
+    4300180: GeoSphere055
+    4300182: GeoSphere056
+    4300184: Trunk028
+    4300186: GeoSphere057
+    4300188: Trunk029
+    4300190: GeoSphere058
+    4300192: GeoSphere059
+    4300194: GeoSphere060
+    4300196: GeoSphere061
+    4300198: Trunk030
+    4300200: GeoSphere062
+    4300202: GeoSphere063
+    4300204: GeoSphere064
+    4300206: GeoSphere065
+    4300208: Trunk031
+    4300210: GeoSphere066
+    4300212: GeoSphere067
+    4300214: GeoSphere068
+    4300216: GeoSphere069
+    4300218: Trunk032
+    4300220: GeoSphere070
+    4300222: GeoSphere071
+    4300224: GeoSphere072
+    4300226: GeoSphere073
+    4300228: Trunk033
+    4300230: GeoSphere074
+    4300232: GeoSphere075
+    4300234: GeoSphere076
+    4300236: GeoSphere077
+    4300238: Trunk034
+    4300240: GeoSphere078
+    4300242: Trunk035
+    4300244: GeoSphere079
+    4300246: Trunk036
+    4300248: GeoSphere080
+    4300250: GeoSphere081
+    4300252: GeoSphere082
+    4300254: GeoSphere083
+    4300256: Trunk037
+    4300258: GeoSphere084
+    4300260: GeoSphere085
+    4300262: GeoSphere086
+    4300264: GeoSphere087
+    4300266: Trunk038
+    4300268: GeoSphere088
+    4300270: Trunk039
+    4300272: GeoSphere089
+    4300274: Trunk040
+    4300276: GeoSphere090
+    4300278: Trunk041
+    4300280: GeoSphere091
+    4300282: GeoSphere092
+    4300284: GeoSphere093
+    4300286: GeoSphere094
+    4300288: Trunk042
+    4300290: GeoSphere095
+    4300292: Trunk043
+    4300294: GeoSphere096
+    4300296: Trunk044
+    4300298: GeoSphere097
+    4300300: GeoSphere098
+    4300302: GeoSphere099
+    4300304: GeoSphere100
+    4300306: Trunk045
+    4300308: GeoSphere101
+    4300310: GeoSphere102
+    4300312: GeoSphere103
+    4300314: GeoSphere104
+    4300316: Trunk046
+    4300318: GeoSphere105
+    4300320: Trunk047
+    4300322: GeoSphere106
+    4300324: Trunk048
+    4300326: GeoSphere107
+    4300328: GeoSphere108
+    4300330: GeoSphere109
+    4300332: GeoSphere110
+    4300334: Trunk049
+    4300336: GeoSphere111
+    4300338: Trunk050
+    4300340: GeoSphere112
+    4300342: Trunk051
+    4300344: GeoSphere113
+    4300346: Trunk052
+    4300348: GeoSphere114
+    4300350: Trunk053
+    4300352: GeoSphere115
+    4300354: GeoSphere116
+    4300356: GeoSphere117
+    4300358: GeoSphere118
+    4300360: Trunk054
+    4300362: GeoSphere119
+    4300364: Trunk055
+    4300366: GeoSphere120
+    4300368: GeoSphere121
+    4300370: GeoSphere122
+    4300372: GeoSphere123
+    4300374: Trunk056
+    4300376: GeoSphere124
+    4300378: GeoSphere125
+    4300380: GeoSphere126
+    4300382: GeoSphere127
+    4300384: Trunk057
+    4300386: GeoSphere128
+    4300388: GeoSphere129
+    4300390: GeoSphere130
+    4300392: GeoSphere131
+    4300394: Trunk058
+    4300396: GeoSphere132
+    4300398: GeoSphere133
+    4300400: GeoSphere134
+    4300402: GeoSphere135
+    4300404: Trunk059
+    4300406: GeoSphere136
+    4300408: Trunk060
+    4300410: GeoSphere137
+    4300412: GeoSphere138
+    4300414: GeoSphere139
+    4300416: GeoSphere140
+    4300418: Trunk061
+    4300420: GeoSphere141
+    4300422: Trunk062
+    4300424: GeoSphere142
+    4300426: Trunk063
+    4300428: GeoSphere143
+    4300430: Trunk064
+    4300432: GeoSphere144
+    4300434: Trunk065
+    4300436: GeoSphere145
+    4300438: Trunk066
+    4300440: GeoSphere146
+    4300442: Trunk067
+    4300444: GeoSphere147
+    4300446: Trunk068
+    4300448: GeoSphere148
+    4300450: Trunk069
+    4300452: GeoSphere149
+    4300454: GeoSphere150
+    4300456: GeoSphere151
+    4300458: GeoSphere152
+    4300460: Trunk070
+    4300462: GeoSphere154
+    4300464: Trunk072
+    4300466: GeoSphere155
+    4300468: Trunk073
+    4300470: GeoSphere156
+    4300472: GeoSphere157
+    4300474: GeoSphere158
+    4300476: GeoSphere159
+    4300478: Trunk074
+    4300480: GeoSphere160
+    4300482: Trunk075
+    4300484: GeoSphere161
+    4300486: Trunk076
+    4300488: GeoSphere162
+    4300490: Trunk077
+    4300492: GeoSphere163
+    4300494: Trunk078
+    4300496: GeoSphere164
+    4300498: Trunk079
+    4300500: GeoSphere165
+    4300502: GeoSphere166
+    4300504: GeoSphere167
+    4300506: GeoSphere168
+    4300508: Trunk080
+    4300510: GeoSphere169
+    4300512: GeoSphere170
+    4300514: GeoSphere171
+    4300516: GeoSphere172
+    4300518: Trunk081
+    4300520: GeoSphere173
+    4300522: GeoSphere174
+    4300524: GeoSphere175
+    4300526: GeoSphere176
+    4300528: Trunk082
+    4300530: GeoSphere177
+    4300532: Trunk083
+    4300534: GeoSphere178
+    4300536: Trunk084
+    4300538: GeoSphere179
+    4300540: Trunk085
+    4300542: GeoSphere180
+    4300544: Trunk086
+    4300546: GeoSphere181
+    4300548: GeoSphere182
+    4300550: GeoSphere183
+    4300552: GeoSphere184
+    4300554: Trunk087
+    4300556: GeoSphere185
+    4300558: GeoSphere186
+    4300560: GeoSphere187
+    4300562: GeoSphere188
+    4300564: Trunk088
+    4300566: GeoSphere189
+    4300568: GeoSphere190
+    4300570: GeoSphere191
+    4300572: GeoSphere192
+    4300574: Trunk089
+    4300576: GeoSphere193
+    4300578: Trunk090
+    4300580: GeoSphere194
+    4300582: GeoSphere195
+    4300584: GeoSphere196
+    4300586: GeoSphere197
+    4300588: Trunk091
+    4300590: GeoSphere198
+    4300592: Trunk092
+    4300594: GeoSphere199
+    4300596: Trunk093
+    4300598: GeoSphere200
+    4300600: GeoSphere201
+    4300602: GeoSphere202
+    4300604: GeoSphere203
+    4300606: Trunk094
+    4300608: GeoSphere204
+    4300610: Trunk095
+    4300612: GeoSphere205
+    4300614: Trunk096
+    4300616: GeoSphere206
+    4300618: Trunk097
+    4300620: GeoSphere207
+    4300622: GeoSphere208
+    4300624: GeoSphere209
+    4300626: GeoSphere210
+    4300628: Trunk098
+    4300630: GeoSphere211
+    4300632: GeoSphere212
+    4300634: GeoSphere213
+    4300636: GeoSphere214
+    4300638: Trunk099
+    4300640: GeoSphere215
+    4300642: Trunk100
+    4300644: GeoSphere216
+    4300646: Trunk101
+    4300648: GeoSphere217
+    4300650: Trunk102
+    4300652: GeoSphere218
+    4300654: GeoSphere219
+    4300656: GeoSphere220
+    4300658: GeoSphere221
+    4300660: Trunk103
+    4300662: GeoSphere222
+    4300664: Trunk104
+    4300666: GeoSphere223
+    4300668: GeoSphere224
+    4300670: GeoSphere225
+    4300672: GeoSphere226
+    4300674: Trunk105
+    4300676: GeoSphere227
+    4300678: Trunk106
+    4300680: GeoSphere228
+    4300682: GeoSphere229
+    4300684: GeoSphere230
+    4300686: GeoSphere231
+    4300688: Trunk107
+    4300690: GeoSphere232
+    4300692: GeoSphere233
+    4300694: GeoSphere234
+    4300696: GeoSphere235
+    4300698: Trunk108
+    4300700: GeoSphere236
+    4300702: Trunk109
+    4300704: GeoSphere237
+    4300706: Trunk110
+    4300708: GeoSphere238
+    4300710: Trunk111
+    4300712: GeoSphere239
+    4300714: Trunk112
+    4300716: GeoSphere240
+    4300718: Trunk113
+    4300720: GeoSphere241
+    4300722: Trunk114
+    4300724: GeoSphere246
+    4300726: Trunk116
+    4300728: GeoSphere247
+    4300730: Trunk117
+    4300732: GeoSphere248
+    4300734: Trunk118
+    4300736: GeoSphere249
+    4300738: Trunk119
+    4300740: GeoSphere250
+    4300742: GeoSphere251
+    4300744: GeoSphere252
+    4300746: GeoSphere253
+    4300748: Trunk120
+    4300750: GeoSphere254
+    4300752: Trunk121
+    4300754: GeoSphere255
+    4300756: Trunk122
+    4300758: GeoSphere256
+    4300760: Trunk123
+    4300762: GeoSphere257
+    4300764: GeoSphere258
+    4300766: GeoSphere259
+    4300768: GeoSphere260
+    4300770: Trunk124
+    4300772: GeoSphere261
+    4300774: GeoSphere262
+    4300776: GeoSphere263
+    4300778: GeoSphere264
+    4300780: Trunk125
+    4300782: GeoSphere265
+    4300784: Trunk126
+    4300786: GeoSphere266
+    4300788: GeoSphere267
+    4300790: GeoSphere268
+    4300792: GeoSphere269
+    4300794: Trunk127
+    4300796: GeoSphere270
+    4300798: Trunk128
+    4300800: GeoSphere271
+    4300802: GeoSphere272
+    4300804: GeoSphere273
+    4300806: GeoSphere274
+    4300808: Trunk129
+    4300810: GeoSphere275
+    4300812: GeoSphere276
+    4300814: GeoSphere277
+    4300816: GeoSphere278
+    4300818: Trunk130
+    4300820: GeoSphere279
+    4300822: Trunk131
+    4300824: GeoSphere280
+    4300826: GeoSphere281
+    4300828: GeoSphere282
+    4300830: GeoSphere283
+    4300832: Trunk132
+    4300834: GeoSphere284
+    4300836: GeoSphere285
+    4300838: GeoSphere286
+    4300840: GeoSphere287
+    4300842: Trunk133
+    4300844: GeoSphere288
+    4300846: Trunk134
+    4300848: GeoSphere289
+    4300850: GeoSphere290
+    4300852: GeoSphere291
+    4300854: GeoSphere292
+    4300856: Trunk135
+    4300858: GeoSphere293
+    4300860: Trunk136
+    4300862: GeoSphere294
+    4300864: Trunk137
+    4300866: GeoSphere295
+    4300868: GeoSphere296
+    4300870: GeoSphere297
+    4300872: GeoSphere298
+    4300874: Trunk138
+    4300876: GeoSphere299
+    4300878: Trunk139
+    4300880: GeoSphere300
+    4300882: Trunk140
+    4300884: GeoSphere301
+    4300886: GeoSphere302
+    4300888: GeoSphere303
+    4300890: GeoSphere304
+    4300892: Trunk141
+    4300894: GeoSphere305
+    4300896: Trunk142
+    4300898: GeoSphere306
+    4300900: GeoSphere307
+    4300902: GeoSphere308
+    4300904: GeoSphere309
+    4300906: Trunk143
+    4300908: GeoSphere310
+    4300910: GeoSphere311
+    4300912: GeoSphere312
+    4300914: GeoSphere313
+    4300916: Trunk144
+    4300918: GeoSphere314
+    4300920: Trunk145
+    4300922: GeoSphere315
+    4300924: GeoSphere316
+    4300926: GeoSphere317
+    4300928: GeoSphere318
+    4300930: Trunk146
+    4300932: GeoSphere319
+    4300934: Trunk147
+    4300936: GeoSphere320
+    4300938: Trunk148
+    4300940: GeoSphere321
+    4300942: Trunk149
+    4300944: GeoSphere322
+    4300946: Trunk150
+    4300948: GeoSphere323
+    4300950: Trunk151
+    4300952: GeoSphere324
+    4300954: Trunk152
+    4300956: GeoSphere325
+    4300958: Trunk153
+    4300960: GeoSphere326
+    4300962: GeoSphere327
+    4300964: GeoSphere328
+    4300966: GeoSphere329
+    4300968: Trunk154
+    4300970: GeoSphere330
+    4300972: GeoSphere331
+    4300974: GeoSphere332
+    4300976: Underground
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,47 @@
+Unity Player [version: Unity 4.6.0f3_30840d631a27]
+
+OculusPlugin.dll caused an Access Violation (0xc0000005)
+  in module OculusPlugin.dll at 0033:b92a20bc.
+
+Error occurred at 2014-12-05_020024.
+D:\Chen Ye\Documents\GitHub\MyoBender\UnityStuff\Elastic.exe, run by Chén Yè.
+81% memory in use.
+16334 MB physical memory [3060 MB free].
+32718 MB paging file [13693 MB free].
+134217728 MB user address space [134217261 MB free].
+Read from location 00000000 caused an access violation.
+
+Context:
+RDI:    0x0f9db6b0  RSI: 0x00000000  RAX:   0x00000000
+RBX:    0x00000000  RCX: 0x0f19f6f0  RDX:   0x001b0019
+RIP:    0xb92a20bc  RBP: 0x0073de09  SegCs: 0x00000033
+EFlags: 0x00010206  RSP: 0x0073dd70  SegSs: 0x0000002b
+R8:    0x00000000  R9: 0x00000010  R10:   0x00000000
+R11:    0x0f19f2a0  R12: 0x00000000  R13:   0x0073e128
+R14:    0xb932bc08  R15: 0x0073e0c8
+
+Bytes at CS:EIP:
+48 8b 00 48 89 41 10 c7 41 18 08 00 00 00 48 8d Module 1
+C:\WINDOWS\SYSTEM32\xinput1_3.dll
+Image Base: 0x00400000  Image Size: 0x0001e000
+File Size:  107368      File Time:  2007-04-04_185422
+Version:
+   Company:    Microsoft Corporation
+   Product:    Microsoft® DirectX for Windows®
+   FileDesc:   Microsoft Common Controller API
+   FileVer:    9.18.944.0
+   ProdVer:    9.18.944.0
+
+Module 2
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+Image Base: 0x00870000  Image Size: 0x0002b000
+File Size:  163944      File Time:  2014-11-04_081806
+Version:
+   Company:    Microsoft Corporation
+   Product:    Microsoft® Windows® Operating System
+   FileDesc:   Base Multimedia Extension API DLL
+   FileVer:    6.4.9879.0
+   ProdVer:    6.4.9879.0
+
+
+== [end of error.log] ==
